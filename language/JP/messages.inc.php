@@ -959,7 +959,7 @@ $MSG['5494'] = '入札 ';
 $MSG['5495'] = 'それぞれ ';
 $MSG['5506'] = '良い: ';
 $MSG['5507'] = '<span style="color:#CD0000;">悪い:</span> ';
-$MSG['5508'] = '登録から';
+$MSG['5508'] = '登録日';
 $MSG['5509'] = '評価受け取り ';
 $MSG['_0012'] = 'ユーザー管理';
 $MSG['_0022'] = '会社';
@@ -1252,16 +1252,16 @@ $MSG['minute_short'] = 'm';
 $MSG['delete_message_confirm'] = 'Are you sure you want to delete this message?';
 
 //Countdown Timer Messages
-$MSG['count_years'] = " years";
-$MSG['count_year'] = " year";
-$MSG['count_months'] = " months";
-$MSG['count_month'] = " month";
-$MSG['count_hours'] = " hours";
-$MSG['count_hour'] = " hour";
-$MSG['count_days'] = " days";
-$MSG['count_day'] = " day";
-$MSG['count_minutes'] = " minutes";
-$MSG['count_minute'] = " minute";
-$MSG['count_seconds'] = " seconds";
-$MSG['count_second'] = " second";
+$MSG['count_years'] = " 年";
+$MSG['count_year'] = " 年";
+$MSG['count_months'] = " ヵ月";
+$MSG['count_month'] = " ヵ月";
+$MSG['count_hours'] = " 時間";
+$MSG['count_hour'] = " 時間";
+$MSG['count_days'] = " 日";
+$MSG['count_day'] = " 日";
+$MSG['count_minutes'] = " 分";
+$MSG['count_minute'] = " 分";
+$MSG['count_seconds'] = " 秒";
+$MSG['count_second'] = " 秒";
 
